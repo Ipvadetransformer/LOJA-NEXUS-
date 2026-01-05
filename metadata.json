@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NexusTienda - Mascotas & Bienestar",
+  "description": "Una plataforma de e-commerce colombiana inspirada en la estética de Nike, centrada en el cuidado de mascotas, belleza y bienestar integral, con asistencia de IA personalizada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
